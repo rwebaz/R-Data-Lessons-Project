@@ -1,3 +1,3 @@
-# Simple-R
+# R-Data
 
-A repo of R-Framework ( Math, Science ) scripts
+A repo of R-Framework ( Math, Science ) scripts and Lessons
